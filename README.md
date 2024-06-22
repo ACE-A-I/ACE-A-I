@@ -3,6 +3,12 @@
 -     - Esto puede no ser prioritario - Nombre de la futura empresa - 
       - Nombre del producto
       - Arquitectura del producto
+      - Lenguaje de programacion :
+        - Phyton ? C# ? 
+        - ASP.NET Core pour créer des RESTful APIs. ? C#
+        - Fast API (Phyton)
+        - 
+        -  
       - 
 Proposicion :
 
@@ -11,15 +17,13 @@ Proposicion :
 
 Why Semantic Kernel and not Langchain 
 
+https://github.com/ACE-A-I/ACE-A-I/blob/main/Langchaing%20vs%20Sematic%20Kernel.md
 
-   
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+- Use ElasicSearch as a vector db or use both 
+
+
 
 <!---
-ACE-A-I/ACE-A-I is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+ACE-A-I/ACE-A-I is a ✨ special ✨ repository 
 --->
